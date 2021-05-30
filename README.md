@@ -1,2 +1,2 @@
 # Calculadora em JavaScript
- Criando uma calculadora com Gustavo Nietzke
+ Criando uma calculadora com Gustavo Nietzke!
